@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@jridgewell/sourcemap-codec": "^1.4.14",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
     "firebase": "^9.15.0",
     "vue": "^3.2.45",
     "vuefire": "^3.0.0-beta.2"
